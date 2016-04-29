@@ -1,7 +1,7 @@
 # Go Worker Go!
 
 ### Initial Version Download Address (for Mac OS):
-https://drive.google.com/open?id=0BwwfrO3cKN7hQTJEWFA3Sjd0NUk
+<p>https://drive.google.com/open?id=0BwwfrO3cKN7hQTJEWFA3Sjd0NUk</p>
 Once you download the zip file, please unzip it and open the application "DockGame_v2" under Contents/MacOS.
 
 ### Game Rules:
@@ -12,13 +12,13 @@ Once you download the zip file, please unzip it and open the application "DockGa
 
 ### How to play the game
 #### Without mouse:
-Move: use direction keys (right, left, forward, backward)
-Jump: space
-View: single finger in touch pad
-Shoot: right Shift, or click the touch pad
+1. Move: use direction keys (right, left, forward, backward)
+2. Jump: space
+3. View: single finger in touch pad
+4. Shoot: right Shift, or click the touch pad
 
 #### With mouse:
-Move: use direction keys (right, left, forward, backward)
-Jump: space
-View: sway the mouse
-Shoot: left click mouse
+1. Move: use direction keys (right, left, forward, backward)
+2. Jump: space
+3. View: sway the mouse
+4. Shoot: left click mouse
