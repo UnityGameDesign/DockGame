@@ -12,13 +12,17 @@ Once you download the zip file, please unzip it and open the application "DockGa
 
 ### How to play the game
 #### Without mouse:
-1. Move: use direction keys (right, left, forward, backward)
-2. Jump: space
-3. View: single finger in touch pad
-4. Shoot: right Shift, or click the touch pad
+<ul>
+<li>Move: use direction keys (right, left, forward, backward)</li>
+<li>Jump: space</li>
+<li>View: single finger in touch pad</li>
+<li>Shoot: right Shift, or click the touch pad</li>
+</ul>
 
 #### With mouse:
-1. Move: use direction keys (right, left, forward, backward)
-2. Jump: space
-3. View: sway the mouse
-4. Shoot: left click mouse
+<ul>
+<li>Move: use direction keys (right, left, forward, backward)</li>
+<li>Jump: space</li>
+<li>View: sway the mouse</li>
+<li>Shoot: left click mouse</li>
+</ul>
