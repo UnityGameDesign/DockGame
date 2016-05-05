@@ -1,0 +1,6 @@
+{
+  "name": "Dockgame",
+  "tagline": "Group mini project. Use Unity 3D.",
+  "body": "# Go Worker Go!\r\n\r\n### Initial Version Download Address (for Mac OS):\r\n<p>https://drive.google.com/open?id=0BwwfrO3cKN7hQTJEWFA3Sjd0NUk</p>\r\nOnce you download the zip file, please unzip it and open the application \"DockGame_v2\" under Contents/MacOS.\r\n\r\n\r\n### Game Rules:\r\n1. Collect enough coins within 5 minutes, otherwise you will fail. Whether you win or lose is determined by this instead of your survival. \r\n2. 5 types of Orc will attack you. The larger size of orc is, the higher damage it has.\r\n3. You can get credits by killing Orc or collecting coins.\r\n4. If you fall into the sea, you are dead. \r\n\r\n\r\n### How to play the game\r\n#### Without mouse:\r\n<ul>\r\n<li>Move: use direction keys (right, left, forward, backward)</li>\r\n<li>Jump: space</li>\r\n<li>View: single finger in touch pad</li>\r\n<li>Shoot: right Shift, or click the touch pad</li>\r\n</ul>\r\n\r\n#### With mouse:\r\n<ul>\r\n<li>Move: use direction keys (right, left, forward, backward)</li>\r\n<li>Jump: space</li>\r\n<li>View: sway the mouse</li>\r\n<li>Shoot: left click mouse</li>\r\n</ul>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
