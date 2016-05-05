@@ -11,10 +11,6 @@ Once you download the zip file, please unzip it and open the application "DockGa
 
 ***
 
-### Warning: Please DO NOT download the game through button!
-
-***
-
 ### Game Screenshots
 ![Screenshot1](https://github.com/UnityGameDesign/DockGame/blob/master/Screenshot1.png?raw=true)
 ![Screenshot2](https://github.com/UnityGameDesign/DockGame/blob/master/Screenshot2.jpg?raw=true)
